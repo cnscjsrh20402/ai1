@@ -74,7 +74,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-}
+"texts": ["짜장면은 맛있어"],"images": ["https://www.google.com/imgres?q=WKwkdaus&imgurl=https%3A%2F%2Fblogthumb.pstatic.net%2F20140716_34%2Fkemidot_1405509380666jywgC_PNG%2FWkwkdaus.png%3Ftype%3Dw2&imgrefurl=https%3A%2F%2Fblog.naver.com%2Fkemidot%3FRedirect%3DLog%26logNo%3D220062399697&docid=jdBQK98soXaioM&tbnid=LhG3n7N3SL9jRM&vet=12ahUKEwit7sKKjICRAxU2lK8BHaY6HHwQM3oECBYQAA..i&w=534&h=347&hcb=2&ved=2ahUKEwit7sKKjICRAxU2lK8BHaY6HHwQM3oECBYQAA"]},
 
 # ======================
 # 유틸
