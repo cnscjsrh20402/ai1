@@ -74,10 +74,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0] : {"texts": ["중국식냉면은맛있어"],"images": ["https://i.namu.wiki/i/SirkrXrlSE4piSsjJyiugvhbNr_WJkJEGbD3Kycw8LtISueKXehbGAYF5vzC2EUX19rWaSU3OLWpac8q5shTDQ.webp"]},
-    labels[1] : {"texts": ["짜장면은 맛있어"],"images": ["https://i.namu.wiki/i/8QUteHJgc0bFQAVohGoYmsE-sLiZW29t96_Mbr9Wpzx7kPFOcIxu9pifogBPehuKuzbPlcxsuW4cgJ5NuLCEwKGi4q9aADz_ApYWgFXITl58aqPcJdue8tAzfc2W_pwRnR8HgVFYHic2G2OgGDcS1w.webp"]},
-    labels[2] : {"texts": ["짬뽕은맛있"],"images": ["https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/2756808e5603db7a18c4f5ee9a699ee41.jpg"]},
-    labels[3] : {"texts": ["탕수육은맛있어"],"images": ["https://shop.hansalim.or.kr/im/is/activeDesigner/%EC%B0%B9%EC%8C%80%ED%83%95%EC%88%98%EC%9C%A1_060306001.jpg"]},
+    labels[0] : {"texts": ["이미지분류"],"images": ["https://flexible.img.hani.co.kr/flexible/normal/970/600/imgdb/original/2021/0903/7916306556577247.png"]},
+    labels[1] : {"texts": ["중국식냉면은맛있어"],"images": ["https://i.namu.wiki/i/SirkrXrlSE4piSsjJyiugvhbNr_WJkJEGbD3Kycw8LtISueKXehbGAYF5vzC2EUX19rWaSU3OLWpac8q5shTDQ.webp"]},
+    labels[2] : {"texts": ["짜장면은 맛있어"],"images": ["https://i.namu.wiki/i/8QUteHJgc0bFQAVohGoYmsE-sLiZW29t96_Mbr9Wpzx7kPFOcIxu9pifogBPehuKuzbPlcxsuW4cgJ5NuLCEwKGi4q9aADz_ApYWgFXITl58aqPcJdue8tAzfc2W_pwRnR8HgVFYHic2G2OgGDcS1w.webp"]},
+    labels[3] : {"texts": ["짬뽕은맛있"],"images": ["https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/2756808e5603db7a18c4f5ee9a699ee41.jpg"]},
+    labels[4] : {"texts": ["탕수육은맛있어"],"images": ["https://shop.hansalim.or.kr/im/is/activeDesigner/%EC%B0%B9%EC%8C%80%ED%83%95%EC%88%98%EC%9C%A1_060306001.jpg"]},
 }
 
 # ======================
