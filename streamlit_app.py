@@ -69,7 +69,7 @@ st.markdown("---")
 # ======================
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # 예)
-    # "짬뽕": {
+    # "짬뽕":{
     #   "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
@@ -78,7 +78,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[1] : {"texts": ["짜장면은 맛있어"],"images": ["https://i.namu.wiki/i/8QUteHJgc0bFQAVohGoYmsE-sLiZW29t96_Mbr9Wpzx7kPFOcIxu9pifogBPehuKuzbPlcxsuW4cgJ5NuLCEwKGi4q9aADz_ApYWgFXITl58aqPcJdue8tAzfc2W_pwRnR8HgVFYHic2G2OgGDcS1w.webp"]},
     labels[2] : {"texts": ["짬뽕은맛있"],"images": ["https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/2756808e5603db7a18c4f5ee9a699ee41.jpg"]},
     labels[3] : {"texts": ["탕수육은맛있어"],"images": ["https://i.namu.wiki/i/DQPzlCdDvbadZasufp6VhKSLDPHU4YlA1f9GbY2fP9nMvjNOSE32JZxL_ysj2duhcUtcWo-cGQvO_qS3rXctJw.webp"]},
-
+}
 
 # ======================
 # 유틸
